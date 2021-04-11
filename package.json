@@ -1,0 +1,22 @@
+{
+  "name": "chss-service-gateway",
+  "version": "0.0.1",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikilukasik/chss-service-gateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikilukasik/chss-service-gateway/issues"
+  },
+  "homepage": "https://github.com/mikilukasik/chss-service-gateway#readme",
+  "dependencies": {
+    "chess-common": "git+https://github.com/mikilukasik/chess-common.git"
+  }
+}
