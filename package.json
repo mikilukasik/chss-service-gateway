@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mikilukasik/chss-service-gateway#readme",
   "dependencies": {
+    "babel-preset-env": "^1.7.0",
     "chess-common": "git+https://github.com/mikilukasik/chess-common.git"
   }
 }
