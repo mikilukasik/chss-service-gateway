@@ -1,6 +1,4 @@
-// const msgGateway = require('chess-common/msgGateway');
-const msgGateway = require('../msg/src/gateway');
-
+const msgGateway = require('msg/src/gateway');
 
 const msg = msgGateway({
   port: 3300,
