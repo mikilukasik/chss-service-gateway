@@ -4,7 +4,8 @@
   "description": "",
   "main": "service.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "dev": "nodemon server"
   },
   "repository": {
     "type": "git",
