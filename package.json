@@ -18,6 +18,6 @@
   "homepage": "https://github.com/mikilukasik/chss-service-gateway#readme",
   "dependencies": {
     "babel-preset-env": "^1.7.0",
-    "msg": "git+https://github.com/mikilukasik/msg.git"
+    "msg": "github:mikilukasik/msg"
   }
 }
